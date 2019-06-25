@@ -40,3 +40,8 @@
 .content-text {
     @apply text-grey-dark;
 }
+
+/** Nav Bar **/
+.nav-links {
+    @apply text-white hover:text-grey no-underline;
+}
