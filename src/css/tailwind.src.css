@@ -34,7 +34,7 @@
 /** Content section **/
 
 .content-wrapper {
-    @apply px-4 pt-4 flex-1 overflow-y-scroll;
+    @apply p-0 flex-1;
 }
 
 .content-text {
