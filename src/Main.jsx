@@ -3,19 +3,19 @@ import React from "react"
 
 const Main = () => {
     return (
-        <div className="content-wrapper">
-            <div className="flex flex-wrap m-4">
+        <div className="">
+            <div>
             
-                <div className="w-full lg:w-3/4 md:w-1/2">
-                    <h1 className="content-text">portfolio</h1>
+                <div className="bg-teal w-full">
+                    <h1 className="text-5xl font-black font-sans tracking-normal">portfolio</h1>
                 </div>
 
-                <div>
-                    <h1 className="content-text">resume</h1>
+                <div className="bg-pink w-full">
+                    <h1 className="text-5xl font-black font-sans tracking-normal">resume</h1>
                 </div>
 
-                <div>
-                    <h1 className="content-text">contact</h1>
+                <div className="bg-yellow w-full">
+                    <h1 className="text-5xl font-black font-sans tracking-normal">contact</h1>
                 </div>
         
             </div>
