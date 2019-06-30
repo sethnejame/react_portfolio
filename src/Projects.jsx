@@ -12,7 +12,6 @@ class Projects extends Component {
     }
 
     componentDidMount() {
-        // JSON Resume Object taken from https://jsonresume.org/schema/ and customized
         axios.get('./src/data/projects.json')
             .then(response => {
                 this.setState({

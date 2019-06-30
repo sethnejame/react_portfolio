@@ -1,65 +1,32 @@
-{
-    "basics": {
-      "name": "Seth NeJame",
-      "label": "Junior Software Developer",
-      "picture": "",
-      "email": "sethnejame@gmail.com",
-      "phone": "072 383 2732",
-      "website": "https://sethreactportfolio.netlify.com/",
-      "summary": "Currently enrolled as a Junior Software Developer in a 16-week full-stack development bootcamp at CraftAcademy in Stockholm, Sweden.",
-      "location": {
-        "city": "Stockholm",
-        "countryCode": "Sweden"
-      },
-      "profiles": [{
-        "network": "LinkedIn",
-        "username": "Seth NeJame",
-        "url": "https://www.linkedin.com/in/seth-nejame-b02039183/"
-      }]
-    },
-    "work": [{
-      "company": "Craft Academy",
-      "position": "Junior Software Developer",
-      "website": "https://www.craftacademy.se/",
-      "startDate": "2019-04-01",
-      "endDate": "2014-09-14",
-      "summary": "16 week software development bootcamp featuring a full stack curriculum including HTML/CSS,
-        JavaScript, React, Ruby, Rails and more. Focused on teaching devs to utilize a test-driven approach to 
-        development, using tools such as RSpec, Node, Cucumber and Cypress. 
-
-        Heavy focus on collaboration and pair-programming - each week features a new project/problem set to 
-        complete with 60+hour workload full of live demos, coding sessions and real-world client/app interaction."
-      ]
-    }],
-    "skills": [{
-      "name": "Full Stack Development",
-      "level": "Master",
-      "keywords": [
-        "React",
-        "Javascript",
-        "HTML",
-        "CSS",
-        "Ruby/Rails",
-        "Python",
-        "Git/Github Workflow",
-        "TDD Development w/ RSpec, NPM/E2E, Cucumber"
-      ]
-    }],
-    "languages": [{
-      "language 1": "English",
-      "fluency 1": "Native speaker",
-      "language 2": "Swedish",
-      "fluency 2": "Intermediate"
-    }],
-    "interests": [{
-      "name": "Fitness",
-      "keywords": [
-        "Weight-Lifting",
-        "Endurance training"
-      ]
-    }],
-    "references": [{
-      "name": "Thomas Ochman",
-      "reference": "Reference..."
-    }]
+[
+  {
+    "id": 1,
+    "name": "Craft Academy",
+    "image": "./src/img/caLogo.png",
+    "description": "16 week software development bootcamp featuring a full stack curriculum including HTML/CSS, JavaScript, React, Ruby, Rails and more. Focused on teaching devs to utilize a test-driven approach to development, using tools such as RSpec, Node, Cucumber and Cypress.  Heavy focus on collaboration and pair-programming - each week features a new project/problem set to complete with 60+hour workload full of live demos, coding sessions and real-world client/app interaction."
+  },
+  {
+    "id": 2,
+    "name": "Asylum Entertainment",
+    "image": "./src/img/asylum.png",
+    "description": "Managed multi-million dollar budget for Facebook’s “Big Chicken Shaq” featuring Shaquille O’Neal, in addition to PMing daily shoots on location in Las Vegas."
+  },
+  {
+    "id": 3,
+    "name": "A&E",
+    "image": "./src/img/aelogo.png",
+    "description": "Production Manager, Asylum Entertainment – A&E’s “Autobiography” Shot on location in various major US cities following the trials and tribulations of various athletes, public figures and celebrities as told through their own voices. Also produced casting, locations & logistics for recreation shoots."
+  },
+  {
+    "id": 4,
+    "name": "National Geographic Channels",
+    "image": "./src/img/natgeo.png",
+    "description": "Production Manager, Revelations Entertainment – National Geographic’s “Story of God with Morgan Freeman” SEASON 2 - INTERNATIONAL - 2016 Shot on location in South Africa, Namibia, India, Ethiopia, Cambodia and Thailand for... See more"
+  },
+  {
+    "id": 5,
+    "name": "National Geographic Channels",
+    "image": "./src/img/natgeo.png",
+    "description": "Coordinating Producer, Asylum Entertainment – National Geographic’s “Breakthrough” SEASON 2 - INTERNATIONAL – 2016 Six-part documentary series for National Geographic Channel worldwide. Produced content and managed film crews in multiple locations around the globe including England, Fra... See more"
   }
+]

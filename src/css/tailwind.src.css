@@ -34,7 +34,7 @@
 /** Content section **/
 
 .content-wrapper {
-    @apply p-0 flex-1;
+    @apply p-0 flex-1 overflow-auto;
 }
 
 .content-text {
