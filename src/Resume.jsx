@@ -38,7 +38,7 @@ class Resume extends Component {
             <div className="content-wrapper" style={{ padding: '20px'}}>
                 <div className="flex mb-4">
                     <div className="w-3/4">
-                        <h1>Resume</h1>
+                        <h1 style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}}>Resume</h1>
                         <p>More experience and references available upon request. . .</p>
                     </div>
 

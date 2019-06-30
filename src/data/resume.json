@@ -2,31 +2,36 @@
   {
     "id": 1,
     "name": "Craft Academy",
+    "title": "Junior Software Developer",
     "image": "./src/img/caLogo.png",
-    "description": "16 week software development bootcamp featuring a full stack curriculum including HTML/CSS, JavaScript, React, Ruby, Rails and more. Focused on teaching devs to utilize a test-driven approach to development, using tools such as RSpec, Node, Cucumber and Cypress.  Heavy focus on collaboration and pair-programming - each week features a new project/problem set to complete with 60+hour workload full of live demos, coding sessions and real-world client/app interaction."
+    "description": "16 week software development bootcamp featuring a full stack curriculum including HTML/CSS, JavaScript, React, Ruby, Rails and more. Focused on teaching devs to utilize a test-driven approach to development, using tools such as RSpec, Node, Cucumber and Cypress.  Heavy focus on collaboration and pair-programming - each week features a new project/problem set to complete with 60+hour workload full of live demos, coding sessions and real-world client/app interaction. See more here: https://www.craftacademy.se/"
   },
   {
     "id": 2,
     "name": "Asylum Entertainment",
+    "title": "Line Producer",
     "image": "./src/img/asylum.png",
-    "description": "Managed multi-million dollar budget for Facebook’s “Big Chicken Shaq” featuring Shaquille O’Neal, in addition to PMing daily shoots on location in Las Vegas."
+    "description": "Managed multi-million dollar budget for Facebook’s “Big Chicken Shaq” featuring Shaquille O’Neal, in addition to PMing daily shoots on location in Las Vegas. See more here: https://www.facebook.com/bigchickenshaqshow/"
   },
   {
     "id": 3,
     "name": "A&E",
+    "title": "Production Manager",
     "image": "./src/img/aelogo.png",
-    "description": "Production Manager, Asylum Entertainment – A&E’s “Autobiography” Shot on location in various major US cities following the trials and tribulations of various athletes, public figures and celebrities as told through their own voices. Also produced casting, locations & logistics for recreation shoots."
+    "description": "A&E’s “Autobiography” series shot on location in various major US cities following the trials and tribulations of various athletes, public figures and celebrities as told through their own voices. Also produced casting, locations & logistics for recreation shoots. See more here: https://www.aetv.com/shows/elizabeth-smart-autobiography"
   },
   {
     "id": 4,
     "name": "National Geographic Channels",
+    "title": "Production Manager",
     "image": "./src/img/natgeo.png",
-    "description": "Production Manager, Revelations Entertainment – National Geographic’s “Story of God with Morgan Freeman” SEASON 2 - INTERNATIONAL - 2016 Shot on location in South Africa, Namibia, India, Ethiopia, Cambodia and Thailand for... See more"
+    "description": "National Geographic’s “Story of God with Morgan Freeman” Shot on location in South Africa, Namibia, India, Ethiopia, Cambodia and Thailand for... See more here: https://www.nationalgeographic.com/tv/the-story-of-god-with-morgan-freeman/"
   },
   {
     "id": 5,
     "name": "National Geographic Channels",
+    "title": "Coordinating Producer",
     "image": "./src/img/natgeo.png",
-    "description": "Coordinating Producer, Asylum Entertainment – National Geographic’s “Breakthrough” SEASON 2 - INTERNATIONAL – 2016 Six-part documentary series for National Geographic Channel worldwide. Produced content and managed film crews in multiple locations around the globe including England, Fra... See more"
+    "description": "National Geographic’s “Breakthrough” SEASON 2 - INTERNATIONAL – 2016 Six-part documentary series for National Geographic Channel worldwide. Produced content and managed film crews in multiple locations around the globe including England, Fra... See more here: http://www.natgeotv.com/int/breakthrough"
   }
 ]
