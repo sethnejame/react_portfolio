@@ -26,7 +26,7 @@ class Resume extends Component {
         if (resume.length > 0) {
             resumeList = resume.map(item => {
                 return (
-                    <div key={item.id} className="min-h-900 my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
+                    <div key={item.id} className="min-h-300 my-1 px-1 w-full">
                         <ResumeCard item={item} />
                     </div>
                 )
@@ -44,7 +44,7 @@ class Resume extends Component {
 
                 </div>
 
-                <div className="flex flex-wrap -mx-1 lg:-mx-4">
+                <div className="w-full">
                     {resumeList}
                 </div>
             </div>
