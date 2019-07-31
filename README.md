@@ -5,5 +5,5 @@ This portfolio was designed to showcase the work and experience of junior softwa
 ## Portfolio Deployment
 
 This React portfolio can be viewed via the following deployment link:
-https://sethnejame.github.io/react_portfolio
+https://snejame-react-portfolio.netlify.com/
 
