@@ -15,7 +15,7 @@ const Main = () => {
                 </div>
 
                 <div className="hover:bg-yellow w-screen h-24" style={{transition: 'background-color .5s linear'}}>
-                <Link className="no-underline text-black" to='/contact'><h1 className="text-5xl py-4 pl-24" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}}>contact</h1></ Link>
+                <a className="no-underline text-black" href="mailto:sethnejame@gmail.com"><h1 className="text-5xl py-4 pl-24" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}}>contact</h1></a>
                 </div>
         
           
