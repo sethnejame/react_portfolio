@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "FizzBuzz",
+    "image": "./src/img/fizzbuzz.png",
+    "description": "The FizzBuzz project takes a classic programming puzzle and combines it with a fresh, simple style in a browser view.",
+    "deployed": "https://sethnejame.github.io/fizzbuzz_js_sethnejame/"
+  },
+  {
+    "id": 2,
+    "name": "ATM",
+    "image": "./src/img/fizzbuzz.png",
+    "description": "The FizzBuzz project takes a classic programming puzzle and combines it with a fresh, simple style in a browser view.",
+    "deployed": "https://sethnejame.github.io/fizzbuzz_js_sethnejame/"
+  },
+  {
+    "id": 3,
+    "name": "Library",
+    "image": "./src/img/fizzbuzz.png",
+    "description": "The FizzBuzz project takes a classic programming puzzle and combines it with a fresh, simple style in a browser view.",
+    "deployed": "https://sethnejame.github.io/fizzbuzz_js_sethnejame/"
+  },
+  {
+    "id": 4,
+    "name": "Florum",
+    "image": "./src/img/fizzbuzz.png",
+    "description": "The FizzBuzz project takes a classic programming puzzle and combines it with a fresh, simple style in a browser view.",
+    "deployed": "https://sethnejame.github.io/fizzbuzz_js_sethnejame/"
+  },
+  {
+    "id": 5,
+    "name": "Rock, Paper, Scissors",
+    "image": "./src/img/fizzbuzz.png",
+    "description": "The FizzBuzz project takes a classic programming puzzle and combines it with a fresh, simple style in a browser view.",
+    "deployed": "https://sethnejame.github.io/fizzbuzz_js_sethnejame/"
+  },
+  {
+    "id": 6,
+    "name": "Flapper",
+    "image": "./src/img/fizzbuzz.png",
+    "description": "The FizzBuzz project takes a classic programming puzzle and combines it with a fresh, simple style in a browser view.",
+    "deployed": "https://sethnejame.github.io/fizzbuzz_js_sethnejame/"
+  }
+]

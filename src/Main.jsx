@@ -7,7 +7,7 @@ const Main = () => {
         <div>
             
                 <div className="hover:bg-teal w-screen h-24" style={{transition: 'background-color .5s linear'}}>
-                <Link className="no-underline text-black" to='/'><h1 className="text-5xl py-4 pl-24" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}}>portfolio</h1></ Link>
+                <Link className="no-underline text-black" to='/portfolio'><h1 className="text-5xl py-4 pl-24" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}}>portfolio</h1></ Link>
                 </div>
 
                 <div className="hover:bg-pink w-screen h-24" style={{ transition: 'background-color .5s linear'}}>
