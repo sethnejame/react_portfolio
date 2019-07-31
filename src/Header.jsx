@@ -12,7 +12,7 @@ const Header = () => {
                                 <li className="mr-6"><NavLink className="text-black hover:text-yellow no-underline" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}} to='/contact'>contact</NavLink></li>
                         </ul>
                         <h1 className="header-title">
-                                <Link  className="text-black hover:text-grey no-underline" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}} to='/contact'>seth.nejame</Link>
+                          <a target="_blank" className="text-black hover:text-grey no-underline" style={{ fontFamily: 'Shrikhand', fontWeight: 'normal'}} href='https://www.linkedin.com/in/seth-nejame-b02039183'>seth.nejame</a>
                         </h1>
                 </nav>
         )
