@@ -11,7 +11,7 @@
     "start": "npm run watch:css & webpack-dev-server --inline --mode development --open",
     "build": "npm run build:css && webpack --mode production",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
